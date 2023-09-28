@@ -1,4 +1,4 @@
-# Diploma in Data Analytics - Part 1: Data Analysis
+# Diploma in Data Analytics
 
 Welcome to my repository for my Data Analytics diploma! This repository is a curated collection of materials and resources from the diploma program I  undertook during August and September 2023.
 
