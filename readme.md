@@ -1,23 +1,31 @@
-# Diploma in Machine Learning - First part: data analysis
+# Diploma in Data Analytics - Part 1: Data Analysis
 
-Welcome to my repository for my Diploma in Machine Learning! In this repository, I'll be sharing various files and resources related to the diploma program that I'm currently undertaking.
+Welcome to my repository for my Data Analytics diploma! This repository is a curated collection of materials and resources from the diploma program I  undertook during August and September 2023.
 
 ## Contents
 
-- **Assignments:** Here, you'll find the assignments I've completed as part of the diploma. Each assignment includes the problem statement and my solution.
+- **Guides:** This section contains essential guides for popular libraries in the data analytics field, aiding in your journey to become proficient in data analysis.📚
 
-- **Projects:** I'll be showcasing my practical projects related to machine learning in this section.
+    - numpy
+    - pandas
+    - scipy
+    - statsmodels
+    - seaborn
+    - matplotlib
+    - geopandas
+    - plotly
 
-- **Resources:** This folder includes useful resources, such as books, research papers, and online tutorials, that have helped me during the program.
+- **Assignments:** Here you'll find completed assignments, each containing the problem statement and my solution. The assignments are categorized into quizzes and homeworks.📝
+
+- **Resources:** This folder is a treasure trove of useful resources, including cheat-sheets and databases, that will enhance your understanding of data analytics concepts.🎉
+
 
 ## About the Diploma
 
-The Diploma in Machine Learning covers a wide range of topics, including data preprocessing, data analysis, machine learning algorithms, deep learning and more. I'm excited to share my journey and the knowledge I'm gaining through this repository.
+The Diploma in Data Analytics encompasses a broad spectrum of topics, including data manipulation and preprocessing, inferential and descriptive statistics, and data visualization. It equips learners with the necessary skills to derive meaningful insights from data, a fundamental aspect of today's data-driven world.
 
-Feel free to explore the different folders and files, and if you find anything useful or interesting, don't hesitate to reach out!
+Feel free to navigate through the different folders and files. If you find anything intriguing or valuable, don't hesitate to reach out! 🌟
 
 ## Contact
 
-If you have any questions, suggestions, or just want to connect, you can reach me via email at [daavilaga@unal.edu.co](mailto:daavilaga@unal.edu.co) or find me on LinkedIn [Daniel Avila Garcia](https://www.linkedin.com/in/daniel-avila-g/).
-
-Happy learning!
+For any inquiries, suggestions, or if you simply want to connect, feel free to reach me via email at [daavilaga@unal.edu.co](mailto:daavilaga@unal.edu.co) or connect with me on LinkedIn at [Daniel Avila Garcia](https://www.linkedin.com/in/daniel-avila-g/). Your feedback and engagement are highly appreciated. Happy learning! 🚀
